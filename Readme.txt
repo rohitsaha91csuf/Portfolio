@@ -1,1 +1,1 @@
-This is my Portfolio which I have build using HTML, CSS, JavaScript and jQuery. Currently, this only runs in the local machine. This project can be copied in the local desktop and the index.html file can be executed to view my portfolio. I am working towards hosting my website in the web. 
+Please go to this link to see my Portfolio: https://rohitsaha91csuf.github.io/PortfolioRohit/
